@@ -2,8 +2,8 @@ package com.unir.products.service;
 
 import java.util.List;
 
-import com.unir.products.model.pojo.Product;
-import com.unir.products.model.request.CreateProductRequest;
+import com.unir.products.data.model.Product;
+import com.unir.products.controller.model.CreateProductRequest;
 
 public interface ProductsService {
 	
